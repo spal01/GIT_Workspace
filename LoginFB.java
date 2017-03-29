@@ -21,6 +21,7 @@ String url;
 ChromeDriver cdriver;
 ReadWriteXlsx obx;
 int i;
+int k;
 
 @BeforeMethod
 public void setUp() throws IOException{
