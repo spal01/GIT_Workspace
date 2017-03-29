@@ -20,7 +20,7 @@ class LoginFB{
 String url;
 ChromeDriver cdriver;
 ReadWriteXlsx obx;
-
+int i;
 
 @BeforeMethod
 public void setUp() throws IOException{
